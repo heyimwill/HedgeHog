@@ -23,7 +23,7 @@ namespace AccelerometerProcessing_FiveSecond
         static List<TeacherFolderDateTime> TeacherFolderDateTimeList = new List<TeacherFolderDateTime>();
 
         /// <summary>
-        /// questions, concerns, comments? why the f^&* are we using a bgworker? willharveydev@gmail.com 
+        /// questions, concerns, comments? why the f^&* are we using a bgworker? plz ask Laur to ask Will; thx
         /// </summary>
         ///        
         [STAThread]
